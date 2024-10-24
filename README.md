@@ -1,5 +1,7 @@
 # ChessMovesCalculator
 
+## where to fnd Source Code
+due to size issue uploaded on Itch.io please check Releases link you get Source Code and the Assets 
 ## Overview
 
 **ChessMovesCalculator** is a Unity project that calculates and highlights all possible legal moves for any chess piece selected on a chessboard. It uses Object-Oriented Programming (OOP) principles, design patterns, and good coding practices to ensure clean, maintainable code. The project also extends functionality by highlighting enemy pieces in red, showing pieces that can be captured.
